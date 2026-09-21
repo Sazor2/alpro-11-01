@@ -1,6 +1,6 @@
 algoritma pengambilan bola
 Langkah-langkah:
-1. ambil dari dalam dalam kotak
+1. ambil BOLA dari dalam dalam kotak
 2. letakan bola 1 di atas meja
 3. ambil bola 2 dari dalam kotak
 4. Letakan bola 2 di sebelah bola 1 di atas meja
