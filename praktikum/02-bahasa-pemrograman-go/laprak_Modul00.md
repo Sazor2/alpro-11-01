@@ -168,6 +168,8 @@ func main() {
 }
 ```
 
+![Output program cacahuang](unguided/cacahuang/output.png)
+
 #### Deskripsi
 Program menguraikan jumlah uang ke dalam banyaknya pecahan Rp10.000, Rp5.000, dan Rp1.000. Operator pembagian integer menghitung jumlah tiap pecahan, sedangkan modulo menyimpan sisa untuk perhitungan pecahan berikutnya. Keluaran berurutan menunjukkan jumlah pecahan Rp10.000, Rp5.000, dan Rp1.000; sisa di bawah Rp1.000 tidak ditampilkan.
 
@@ -197,6 +199,8 @@ func main() {
 	fmt.Println(tambah, kurang, kali, bagi, modulo)
 }
 ```
+
+![Output program kalkulator](unguided/kalkulator/output.png)
 
 #### Deskripsi
 Program membaca dua bilangan bulat, lalu menghitung penjumlahan, pengurangan, perkalian, pembagian integer, dan sisa pembagian. Hasil ditampilkan dalam urutan tersebut. Nilai pembagi harus bukan nol karena pembagian dengan nol tidak valid.
